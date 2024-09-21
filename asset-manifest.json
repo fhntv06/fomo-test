@@ -68,7 +68,7 @@
     "968.f8ad8222.chunk.js.map": "/fomo-test/static/js/968.f8ad8222.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.74dccc60.css",
-    "static/js/main.2abaf9dc.js"
+    "/fomo-test/static/css/main.74dccc60.css",
+    "/fomo-test/static/js/main.2abaf9dc.js"
   ]
 }
